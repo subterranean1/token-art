@@ -2,7 +2,7 @@
   "chain": "counterparty",
   "name": "2023 Fest Rares",
   "images": {
-    "avatar": "https://hgp5ykn5ggom2hfma3x5mbyd2cn7voszn5c7xvk5qo5qi6il3y4a.arweave.net/OZ_cKb0xnM0crAbv1gcD0Jv6ullvRfvVXYO7BHkL3jg",
+    "avatar": "https://hgp5ykn5ggom2hfma3x5mbyd2cn7voszn5c7xvk5qo5qi6il3y4a.arweave.net/OZ_cKb0xnM0crAbv1gcD0Jv6ullvRfvVXYO7BHkL3jg/Logo.jpg",
     "banner": ""
   },
   "description": "2023 Fest Rares",
@@ -23,7 +23,7 @@
           "edition": "01",
           "name": "MINTPASSTEST",
           "images": {
-            "primary": "https://qhaspvgnbzk7r6xhaqmw4ujqz2o3luufkvrln4kzeh5be72avoeq.arweave.net/gcEn1M0OVfj65wQZblEwzp210oVVYrbxWSH6En9Aq4k",
+            "primary": "https://qhaspvgnbzk7r6xhaqmw4ujqz2o3luufkvrln4kzeh5be72avoeq.arweave.net/gcEn1M0OVfj65wQZblEwzp210oVVYrbxWSH6En9Aq4k/MINTPASSTEST.jpg",
             "other": []
           },
           "artists": [
@@ -38,7 +38,7 @@
           "edition": "02",
           "name": "MINTPEPEPASS",
           "images": {
-            "primary": "https://u7iw3stvjl24cdfwslew26upn7cf2ykp2zbwndrxy7i4dz5mujiq.arweave.net/p9FtynVK9cEMtpLJbXqPb8RdYU_WQ2aON8fRweesolE",
+            "primary": "https://u7iw3stvjl24cdfwslew26upn7cf2ykp2zbwndrxy7i4dz5mujiq.arweave.net/p9FtynVK9cEMtpLJbXqPb8RdYU_WQ2aON8fRweesolE/MINTPEPEPASS.jpg",
             "other": []
           },
           "artists": [
@@ -53,12 +53,12 @@
           "edition": "03",
           "name": "PEACENIKPEPE",
           "images": {
-            "primary": "https://n3eqanr6kdzkmktldp5rwsqb5vi5dwdw6blrcggym43zo7jpfc3a.arweave.net/bskANj5Q8qYqaxv7G0oB7VHR2HbwVxEY2Gc3l30vKLY",
+            "primary": "https://n3eqanr6kdzkmktldp5rwsqb5vi5dwdw6blrcggym43zo7jpfc3a.arweave.net/bskANj5Q8qYqaxv7G0oB7VHR2HbwVxEY2Gc3l30vKLY/PEACENIKPEPE.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
+              "name": "Mamo Looney",
               "link": ""
              }
           ],
@@ -68,12 +68,12 @@
         "edition": "04",
           "name":  "SHROOMTOSHI",
           "images": {
-            "primary": "https://q2woi4ipasz2hbr5wlyqmyxg6mz5y4tptppsgdzh4ew4rx3ig5bq.arweave.net/hqzkcQ8Es6OGPbLxBmLm8zPccm-b3yMPJ-EtyN9oN0M",
+            "primary": "https://q2woi4ipasz2hbr5wlyqmyxg6mz5y4tptppsgdzh4ew4rx3ig5bq.arweave.net/hqzkcQ8Es6OGPbLxBmLm8zPccm-b3yMPJ-EtyN9oN0M/SHROOMTOSHI.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
+              "name": "Shroomtoshi",
               "link": ""
             }
           ],
@@ -83,13 +83,13 @@
         "edition": "05",
           "name":  "NOPEPENO",
           "images": {
-            "primary": "https://pvt4wjr4x5abuw4bwr35nsdr35e3dkgbukoabuym6baffg6yooda.arweave.net/fWfLJjy_QBpbgbR31shx30mxqMGinADTDPBAUpvYc4Y",
+            "primary": "https://pvt4wjr4x5abuw4bwr35nsdr35e3dkgbukoabuym6baffg6yooda.arweave.net/fWfLJjy_QBpbgbR31shx30mxqMGinADTDPBAUpvYc4Y/NOPEPENO.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Theo goodman",
+              "link": "https://twitter.com/theog__"
             }
           ],
           "subassets": []
@@ -98,12 +98,12 @@
         "edition": "06",
           "name":  "MARGEMEME",
           "images": {
-            "primary": "https://2vdiybk2lllrnb47dxgrrzytpr465hyrsv64mvsqqgjqw3yygddq.arweave.net/1UaMBVpa1xaHnx3NGOcTfHnunxGVfcZWUIGTC28YMMc",
+            "primary": "https://2vdiybk2lllrnb47dxgrrzytpr465hyrsv64mvsqqgjqw3yygddq.arweave.net/1UaMBVpa1xaHnx3NGOcTfHnunxGVfcZWUIGTC28YMMc/MARGEMEME.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
+              "name": "Albertine",
               "link": ""
             }
           ],
@@ -113,12 +113,12 @@
         "edition": "07",
           "name":  "PEPYEAH",
           "images": {
-            "primary": "",
+            "primary": "https://2eohyayisbdr6rkuifgbdpfxbldikigsrel5owt2jz6m6sxmzuwa.arweave.net/0Rx8AwiQRx9FVEFMEby3CsaFINKJF9daek58z0rszSw/PEPYEAH.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
+              "name": "Pinatubo",
               "link": ""
             }
           ],
@@ -128,22 +128,37 @@
         "edition": "08",
           "name":  "A1448255510946016597",
           "images": {
-            "primary": "",
+            "primary": "https://27rmofzyuqc7t4d5capjkpwyhzdnfckarpi5vlwde6ch2sh4nw4a.arweave.net/1-LHFzikBfnwfRAelT7YPkbSiUCL0dquwyeEfUj8bbg/A1448255510946016597.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Gus Grillasca",
+              "link": "https://twitter.com/GusGrillasca"
             }
           ],
           "subassets": []
         },
 	{
         "edition": "09",
-          "name":  "",
+          "name":  "CHEFPEPELEGS",
           "images": {
-            "primary": "",
+            "primary": "https://redu2zidgx2he425wuqzyaocjewc7k7dwbygkgzfuwrsvgknpcea.arweave.net/iQdNZQM19HJzXbUhnAHCSSwvq-OwcGUbJaWjKplNeIg/CHEFPEPELEGS.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Nicolas Sierro",
+              "link": "https://twitter.com/NicolasSierro"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "10",
+          "name":  "PEPESOF",
+          "images": {
+            "primary": "https://pro7ai2tb34fbbwi422g4symq6jklbplkyfxyva7ayidlirjrcda.arweave.net/fF3wI1MO-FCGyOa0bksMh5KlhetWC3xUHwYQNaIpiIY/PEPESOF.jpg",
             "other": []
           },
           "artists": [
@@ -155,75 +170,60 @@
           "subassets": []
         },
 	{
-        "edition": "",
-          "name":  "",
+        "edition": "11",
+          "name":  "PEPECRICKET",
           "images": {
-            "primary": "",
+            "primary": "https://n3uu4a4rhgb7bys7lkddtwlq7d66szmmwy4fawxl3cjpyjuoggnq.arweave.net/bulOA5E5g_DiX1qGOdlw-P3pZYy2OFBa69iS_CaOMZs/PEPECRICKET.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
+              "name": "HS",
               "link": ""
             }
           ],
           "subassets": []
         },
 	{
-        "edition": "",
-          "name":  "",
+        "edition": "12",
+          "name":  "HIPEPE",
           "images": {
-            "primary": "",
+            "primary": "https://kbvj2biq5g6q7wijetppbulqletg3usr4llqomaqx4yy6rr6djzq.arweave.net/UGqdBRDpvQ_ZCSTe8NFwWSZt0lHi1wcwEL8xj0Y-GnM/HIPEPE.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Joe Atang",
+              "link": "https://twitter.com/JOEATANG"
             }
           ],
           "subassets": []
         },
 	{
-        "edition": "",
-          "name":  "",
+        "edition": "13",
+          "name":  "RAREWORKSHOP",
           "images": {
-            "primary": "",
+            "primary": "https://sxa3vtq5vnodwnbua47x6jrit7qlbgy4v6cmvj62zbxtxybc72xq.arweave.net/lcG6zh2rXDs0NAc_fyYon-CwmxyvhMqn2shvO-Ai_q8/RAREWORKSHOP.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Le Hues",
+              "link": "https://twitter.com/PepeLeHues"
             }
           ],
           "subassets": []
         },
 	{
-        "edition": "",
-          "name":  "",
+        "edition": "14",
+          "name":  "KRAKENPEPE",
           "images": {
-            "primary": "",
+            "primary": "https://ixl7fmox2higtsiep46e3qzpvnxs4o5rhjamvw454stwjdm6hx7a.arweave.net/RdfysdfR0GnJBH88TcMvq28uO7E6QMrbneSnZI2ePf4/KRAKENPEPE.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subassets": []
-        },
-	{
-        "edition": "",
-          "name":  "",
-          "images": {
-            "primary": "",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "",
+              "name": "volt46",
               "link": ""
             }
           ],
@@ -231,166 +231,166 @@
           },
  {
         
-        "edition": "",
-          "name":  "",
+        "edition": "15",
+          "name":  "PEPEBUSINESS",
           "images": {
-            "primary": "",
+            "primary": "https://nezajhrgepqad2qszunsriam6kusd6xab5qv27dmbifyq34sns2q.arweave.net/aTIEniYj4AHqEs0bKKAM8qkh-uAPYV18bAoLiG-SbLU/PEPEBUSINESS.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
+              "name": "Filthy Trikks",
+              "link": "https://twitter.com/FilthyTrikksEth"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "16",
+          "name":  "MADEINPARIS",
+          "images": {
+            "primary": "https://mplzpiqtmdgfsat35fukz72f4yevypz5jigopw653kv3gbt7o3ca.arweave.net/Y9eXohNgzFkCe-lorP9F5glcPz1KDOfb3dqrswZ_dsQ/MADEINPARIS.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Davesta",
               "link": ""
             }
           ],
           "subassets": []
         },
 	{
-        "edition": "",
-          "name":  "",
+        "edition": "17",
+          "name":  "MINIMALPEPE",
           "images": {
-            "primary": "",
+            "primary": "https://aas66mxwpfx7sqfr5pnq6cvq4u6kdtrsd4lcdodsdrbxh6j5kv2q.arweave.net/ACXvMvZ5b_lAsevbDwqw5TyhzjIfFiG4chxDc_k9VXU/minimalpepe.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
+              "name": "Ditacrypto",
               "link": ""
             }
           ],
           "subassets": []
         },
 	{
-        "edition": "",
-          "name":  "",
+        "edition": "18",
+          "name":  "PEPEDEVINCI",
           "images": {
-            "primary": "",
+            "primary": "https://wxxnbtcokzj3zt5or2sev7vpqxkqdwedddyq7fm5akej2bt7tyfa.arweave.net/te7QzE5WU7zPro6kSv6vhdUB2IMY8Q-VnQKInQZ_ngo/PEPEDEVINCI.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subassets": []
-        },
-	{
-        "edition": "",
-          "name":  "",
-          "images": {
-            "primary": "",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "",
+              "name": "Arthur",
               "link": ""
             }
           ],
           "subassets": []
           }
   {
-        "edition": "",
-          "name":  "",
+        "edition": "19",
+          "name":  "FROSRETROUVL",
           "images": {
-            "primary": "",
+            "primary": "https://ah4jlbkiavkqzpe45ksz3unpbwsdkdqwnje6z22d2hjdbed66d2a.arweave.net/AfiVhUgFVQy8nOqlndGvDaQ1DhZqSezrQ9HSMJB-8PQ/FROSRETROUVL.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
+              "name": "Elma x Raresaestheth",
               "link": ""
             }
           ],
           "subassets": []
         },
 	{
-        "edition": "",
-          "name":  "",
+        "edition": "20",
+          "name":  "RCSAPARIS",
           "images": {
-            "primary": "",
+            "primary": "https://eeuzovmap64kzyd6s3skbndbpey7ksbyvkpewlga5mx32aeqd77q.arweave.net/ISmXVYB_uKzgfpbkoLRheTH1SDiqnksswOsvvQCQH_8/RCSAPARIS.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
+              "name": "Netidx",
+              "link": "https://twitter.com/netindexed"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "21",
+          "name":  "YUPEPE",
+          "images": {
+            "primary": "https://jrtyidikbrdfnwbiozwutmifxw3luis56d7hmnbea5nguvmx2uca.arweave.net/TGeEDQoMRlbYKHZtSbEFvba6Il3w_nY0JAdaalWX1QQ/YUPEPE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Darky",
+              "link": "https://twitter.com/Dark_inc_Studio"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "22",
+          "name":  "PEPEHA",
+          "images": {
+            "primary": "https://pie2kea2cqd6jiuunugtwav64ut6r6m65ay4gjb64hzhocjhhfba.arweave.net/egmlEBoUB-SilG0NOwK-5Sfo-Z7oMcMkPuHydwknOUI/PEPEHA.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "TokerVillage",
               "link": ""
             }
           ],
           "subassets": []
         },
 	{
-        "edition": "",
-          "name":  "",
+        "edition": "23",
+          "name":  "PEPEPLEXI",
           "images": {
-            "primary": "",
+            "primary": "https://j4qbktiskwcwbt6iu52beyvwktbezafy5u2ydxxrx6lxoeqopqbq.arweave.net/TyAVTRJVhWDPyKd0EmK2VMJMgLjtNYHe8b-XdxIOfAM/PEPEPLEXI.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
+              "name": "Plexiplay",
               "link": ""
             }
           ],
           "subassets": []
         },
 	{
-        "edition": "",
-          "name":  "",
+        "edition": "24",
+          "name":  "PEPECOLM",
           "images": {
-            "primary": "",
+            "primary": "https://atb3hay4ec36be55pdn56qsdafdkyodxenc4piygt5p5oek5wo7a.arweave.net/BMOzgxwgt-CTvXjb30JDAUasOHcjRcejBp9f1xFds74/PEPECOLM.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
+              "name": "Cora",
               "link": ""
             }
           ],
           "subassets": []
         },
 	{
-        "edition": "",
-          "name":  "",
+        "edition": "25",
+          "name":  "PEPEVRYWHERE",
           "images": {
-            "primary": "",
+            "primary": "https://qlthwwwppxm7oq2ulk33lpug2h37nyirftzuukyljpsdg4443kia.arweave.net/guZ7Ws992fdDVFq3tb6G0ff24REs80orC0vkM3Oc2pA/PEPEVRYWHERE.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subassets": []
-        },
-	{
-        "edition": "",
-          "name":  "",
-          "images": {
-            "primary": "",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subassets": []
-        },
-	{
-        "edition": "",
-          "name":  "",
-          "images": {
-            "primary": "",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
+              "name": "Easy B",
+              "link": "https://twitter.com/Easy_to_the_b"
             }
           ],
           "subassets": []
