@@ -1,0 +1,491 @@
+{
+  "chain": "counterparty",
+  "name": "2023 Fest Rares",
+  "images": {
+    "avatar": "https://hgp5ykn5ggom2hfma3x5mbyd2cn7voszn5c7xvk5qo5qi6il3y4a.arweave.net/OZ_cKb0xnM0crAbv1gcD0Jv6ullvRfvVXYO7BHkL3jg",
+    "banner": ""
+  },
+  "description": "2023 Fest Rares",
+  "externalLinks": {
+    "website": "https://festrares.siteoly.com/",
+    "twitter": ""
+  },
+  "sets": [
+    {
+      "name": "Paris 2023",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "01",
+          "name": "MINTPASSTEST",
+          "images": {
+            "primary": "https://qhaspvgnbzk7r6xhaqmw4ujqz2o3luufkvrln4kzeh5be72avoeq.arweave.net/gcEn1M0OVfj65wQZblEwzp210oVVYrbxWSH6En9Aq4k",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Joe Looney",
+              "link": "https://twitter.com/wasthatawolf"
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "02",
+          "name": "MINTPEPEPASS",
+          "images": {
+            "primary": "https://u7iw3stvjl24cdfwslew26upn7cf2ykp2zbwndrxy7i4dz5mujiq.arweave.net/p9FtynVK9cEMtpLJbXqPb8RdYU_WQ2aON8fRweesolE",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Joe Looney",
+              "link": "https://twitter.com/wasthatawolf"
+            }
+          ],
+          "subassets": []
+           },
+        {
+          "edition": "03",
+          "name": "PEACENIKPEPE",
+          "images": {
+            "primary": "https://n3eqanr6kdzkmktldp5rwsqb5vi5dwdw6blrcggym43zo7jpfc3a.arweave.net/bskANj5Q8qYqaxv7G0oB7VHR2HbwVxEY2Gc3l30vKLY",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+             }
+          ],
+          "subassets": []
+          }
+        {
+        "edition": "04",
+          "name":  "SHROOMTOSHI",
+          "images": {
+            "primary": "https://q2woi4ipasz2hbr5wlyqmyxg6mz5y4tptppsgdzh4ew4rx3ig5bq.arweave.net/hqzkcQ8Es6OGPbLxBmLm8zPccm-b3yMPJ-EtyN9oN0M",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "05",
+          "name":  "NOPEPENO",
+          "images": {
+            "primary": "https://pvt4wjr4x5abuw4bwr35nsdr35e3dkgbukoabuym6baffg6yooda.arweave.net/fWfLJjy_QBpbgbR31shx30mxqMGinADTDPBAUpvYc4Y",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "06",
+          "name":  "MARGEMEME",
+          "images": {
+            "primary": "https://2vdiybk2lllrnb47dxgrrzytpr465hyrsv64mvsqqgjqw3yygddq.arweave.net/1UaMBVpa1xaHnx3NGOcTfHnunxGVfcZWUIGTC28YMMc",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "07",
+          "name":  "PEPYEAH",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "08",
+          "name":  "A1448255510946016597",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "09",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+          },
+ {
+        
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+          }
+  {
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "",
+          "name":  "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        }
+      ]
+     }
+    ] 
+   } 
