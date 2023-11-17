@@ -181,7 +181,105 @@
                                     "link": ""
                                 }
                             ]
-                        }
+                        },
+{
+      "edition": "May 2023",
+      "name": "HERPES",
+      "images": {
+        "primary": "https://ruderelics.io/card/HERPES.gif",
+        "other": []
+      },
+      "artists": [
+        {
+          "name": "papeto",
+          "link": ""
+        }
+      ],
+      "subassets": [
+        {
+          "edition": "May 2023",
+          "name": "HERPES.BOO",
+          "images": {
+            "primary": "https://ruderelics.io/cards/HERPES_x6GQI.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "May 2023",
+          "name": "HERPES.HEROES",
+          "images": {
+            "primary": "https://ruderelics.io/cards/HERPES_8Vtwg.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "May 2023",
+          "name": "HERPES.HERPEPES",
+          "images": {
+            "primary": "https://ruderelics.io/cards/HERPES_jri7K.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "ROBENIRA",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "May 2023",
+          "name": "HERPES.HERPESPEPE",
+          "images": {
+            "primary": "https://ruderelics.io/cards/HERPES_CcSIM.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "ROBENIRA",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "May 2023",
+          "name": "HERPES.KissMeISwear",
+          "images": {
+            "primary": "https://ruderelics.io/cards/HERPES_ISij7.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "May 2023",
+          "name": "HERPES.VICTIMS",
+          "images": {
+            "primary": "https://ruderelics.io/cards/HERPES_lvjUg.jpeg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AdeKrypto",
+              "link": ""
+            }
+          ]
+        }
                     ]
                 }
             ]
