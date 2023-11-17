@@ -182,202 +182,206 @@
                                 }
                             ]
                         },
-{
-      "edition": "May 2023",
-      "name": "HERPES",
-      "images": {
-        "primary": "https://ruderelics.io/card/HERPES.gif",
-        "other": []
-      },
-      "artists": [
-        {
-          "name": "papeto",
-          "link": ""
-        }
-      ],
-      "subassets": [
-        {
-          "edition": "May 2023",
-          "name": "HERPES.BOO",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HERPES_x6GQI.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "May 2023",
-          "name": "HERPES.HEROES",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HERPES_8Vtwg.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "papeto",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "May 2023",
-          "name": "HERPES.HERPEPES",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HERPES_jri7K.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "ROBENIRA",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "May 2023",
-          "name": "HERPES.HERPESPEPE",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HERPES_CcSIM.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "ROBENIRA",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "May 2023",
-          "name": "HERPES.KissMeISwear",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HERPES_ISij7.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "May 2023",
-          "name": "HERPES.VICTIMS",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HERPES_lvjUg.jpeg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "AdeKrypto",
-              "link": ""
-            }
-          ]
-        },
-{
-      "edition": "June 2023",
-      "name": "FUCKED",
-      "images": {
-        "primary": "https://ruderelics.io/card/FUCKED.gif",
-        "other": []
-      },
-      "artists": [
-        {
-          "name": "Shorty",
-          "link": ""
-        }
-      ],
-      "subassets": [
-        {
-          "edition": "June 2023",
-          "name": "FUCKED.Bride",
-          "images": {
-            "primary": "https://ruderelics.io/cards/FUCKED_FMvI3.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "June 2023",
-          "name": "FUCKED.BUD",
-          "images": {
-            "primary": "https://ruderelics.io/cards/FUCKED_FJWf3.gif",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "papeto",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "June 2023",
-          "name": "FUCKED.MMFCKED",
-          "images": {
-            "primary": "https://ruderelics.io/cards/FUCKED_0KO4U.png",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "AbysVora",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "June 2023",
-          "name": "FUCKED.PEPEBELLY",
-          "images": {
-            "primary": "https://ruderelics.io/cards/FUCKED_NyRsa.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "June 2023",
-          "name": "FUCKED.PEPEFUCKED",
-          "images": {
-            "primary": "https://ruderelics.io/cards/FUCKED_9Hc8S.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Robenira",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "June 2023",
-          "name": "FUCKED.WELL",
-          "images": {
-            "primary": "https://ruderelics.io/cards/FUCKED_ngsBA.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        }
+                        {
+                            "edition": "May 2023",
+                            "name": "HERPES",
+                            "images": {
+                                "primary": "https://ruderelics.io/card/HERPES.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "papeto",
+                                    "link": ""
+                                }
+                            ],
+                            "subassets": [
+                                {
+                                    "edition": "May 2023",
+                                    "name": "HERPES.BOO",
+                                    "images": {
+                                        "primary": "https://ruderelics.io/cards/HERPES_x6GQI.jpg",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "Lycosfreak",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "May 2023",
+                                    "name": "HERPES.HEROES",
+                                    "images": {
+                                        "primary": "https://ruderelics.io/cards/HERPES_8Vtwg.jpg",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "papeto",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "May 2023",
+                                    "name": "HERPES.HERPEPES",
+                                    "images": {
+                                        "primary": "https://ruderelics.io/cards/HERPES_jri7K.jpg",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "ROBENIRA",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "May 2023",
+                                    "name": "HERPES.HERPESPEPE",
+                                    "images": {
+                                        "primary": "https://ruderelics.io/cards/HERPES_CcSIM.jpg",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "ROBENIRA",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "May 2023",
+                                    "name": "HERPES.KissMeISwear",
+                                    "images": {
+                                        "primary": "https://ruderelics.io/cards/HERPES_ISij7.jpg",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "Lycosfreak",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "May 2023",
+                                    "name": "HERPES.VICTIMS",
+                                    "images": {
+                                        "primary": "https://ruderelics.io/cards/HERPES_lvjUg.jpeg",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "AdeKrypto",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "June 2023",
+                                    "name": "FUCKED",
+                                    "images": {
+                                        "primary": "https://ruderelics.io/card/FUCKED.gif",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "Shorty",
+                                            "link": ""
+                                        }
+                                    ],
+                                    "subassets": [
+                                        {
+                                            "edition": "June 2023",
+                                            "name": "FUCKED.Bride",
+                                            "images": {
+                                                "primary": "https://ruderelics.io/cards/FUCKED_FMvI3.jpg",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "Lycosfreak",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "June 2023",
+                                            "name": "FUCKED.BUD",
+                                            "images": {
+                                                "primary": "https://ruderelics.io/cards/FUCKED_FJWf3.gif",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "papeto",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "June 2023",
+                                            "name": "FUCKED.MMFCKED",
+                                            "images": {
+                                                "primary": "https://ruderelics.io/cards/FUCKED_0KO4U.png",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "AbysVora",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "June 2023",
+                                            "name": "FUCKED.PEPEBELLY",
+                                            "images": {
+                                                "primary": "https://ruderelics.io/cards/FUCKED_NyRsa.jpg",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "Lycosfreak",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "June 2023",
+                                            "name": "FUCKED.PEPEFUCKED",
+                                            "images": {
+                                                "primary": "https://ruderelics.io/cards/FUCKED_9Hc8S.jpg",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "Robenira",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "June 2023",
+                                            "name": "FUCKED.WELL",
+                                            "images": {
+                                                "primary": "https://ruderelics.io/cards/FUCKED_ngsBA.jpg",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "Lycosfreak",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
                     ]
                 }
             ]
