@@ -18,171 +18,173 @@
                 "banner": ""
             },
             "description": "",
-  "assets": [
-       {
-      "edition": "April 2023",
-      "name": "HARDCORE",
-      "images": {
-        "primary": "https://ruderelics.io/card/HARDCORE-cp.png",
-        "other": []
-      },
-      "artists": [
-        {
-          "name": "",
-          "link": ""
+            "assets": [
+                {
+                    "edition": "April 2023",
+                    "name": "HARDCORE",
+                    "images": {
+                        "primary": "https://ruderelics.io/card/HARDCORE-cp.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "",
+                            "link": ""
+                        }
+                    ],
+                    "subassets": [
+                        {
+                            "edition": "April 2023",
+                            "name": "HARDCORE.90sRavePepe",
+                            "images": {
+                                "primary": "https://ruderelics.io/cards/HARDCORE_w5ZVf.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Lycosfreak",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "April 2023",
+                            "name": "HARDCORE.BITETHEAPPLE",
+                            "images": {
+                                "primary": "https://ruderelics.io/cards/HARDCORE_Gdzl5.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Crazy Zapped",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "April 2023",
+                            "name": "HARDCORE.BloodyCandy",
+                            "images": {
+                                "primary": "https://63bg6vfi6iph3xdbcm7mwvhgnx235wuex6buqxc2atkqi6i2thlq.arweave.net/9sJvVKjyHn3cYRM-y1TmbfW-2oS_g0hcWgTVBHkamdc/BloodyCandy.png",
+                                "other": []
+                            },
+                            "artists": []
+                        },
+                        {
+                            "edition": "April 2023",
+                            "name": "HARDCORE.Hardcore_Pepe_Card",
+                            "images": {
+                                "primary": "https://ruderelics.io/cards/HARDCORE_T3ZTI.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Lycosfreak",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "April 2023",
+                            "name": "HARDCORE.Hardcorepepe",
+                            "images": {
+                                "primary": "https://ruderelics.io/cards/HARDCORE_ma2Eb.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Bbleiztz",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "April 2023",
+                            "name": "HARDCORE.PEPEHUB",
+                            "images": {
+                                "primary": "https://ruderelics.io/cards/HARDCORE_urfXs.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "papeto",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "April 2023",
+                            "name": "HARDCORE.Princess_Pepe",
+                            "images": {
+                                "primary": "https://ruderelics.io/cards/HARDCORE_wQYVi.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Lycosfreak",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "April 2023",
+                            "name": "HARDCORE.RUDECUM",
+                            "images": {
+                                "primary": "https://ruderelics.io/cards/HARDCORE_kqPGK.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "pinocchio",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "April 2023",
+                            "name": "HARDCORE.SNOWHITE",
+                            "images": {
+                                "primary": "https://ruderelics.io/cards/HARDCORE_eU9GQ.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "ROBENIRA",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "April 2023",
+                            "name": "HARDCORE.THEJUMPOFF",
+                            "images": {
+                                "primary": "https://ruderelics.io/cards/HARDCORE_OfLNV.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Shorty",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "April 2023",
+                            "name": "HARDCORE.TOTHECORE",
+                            "images": {
+                                "primary": "https://ruderelics.io/cards/HARDCORE_YlbWS.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Shorty",
+                                    "link": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
-      ],
-      "subassets": [
-        {
-          "edition": "April 2023",
-          "name": "HARDCORE.90sRavePepe",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HARDCORE_w5ZVf.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "April 2023",
-          "name": "HARDCORE.BITETHEAPPLE",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HARDCORE_Gdzl5.png",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Crazy Zapped",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "April 2023",
-          "name": "HARDCORE.BloodyCandy",
-          "images": {
-            "primary": "https://63bg6vfi6iph3xdbcm7mwvhgnx235wuex6buqxc2atkqi6i2thlq.arweave.net/9sJvVKjyHn3cYRM-y1TmbfW-2oS_g0hcWgTVBHkamdc/BloodyCandy.png",
-            "other": []
-          },
-          "artists": []
-        },
-        {
-          "edition": "April 2023",
-          "name": "HARDCORE.Hardcore_Pepe_Card",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HARDCORE_T3ZTI.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "April 2023",
-          "name": "HARDCORE.Hardcorepepe",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HARDCORE_ma2Eb.gif",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Bbleiztz",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "April 2023",
-          "name": "HARDCORE.PEPEHUB",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HARDCORE_urfXs.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "papeto",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "April 2023",
-          "name": "HARDCORE.Princess_Pepe",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HARDCORE_wQYVi.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "April 2023",
-          "name": "HARDCORE.RUDECUM",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HARDCORE_kqPGK.gif",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "pinocchio",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "April 2023",
-          "name": "HARDCORE.SNOWHITE",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HARDCORE_eU9GQ.gif",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "ROBENIRA",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "April 2023",
-          "name": "HARDCORE.THEJUMPOFF",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HARDCORE_OfLNV.gif",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Shorty",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "April 2023",
-          "name": "HARDCORE.TOTHECORE",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HARDCORE_YlbWS.gif",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Shorty",
-              "link": ""
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }
