@@ -883,6 +883,190 @@
                                                     "link": ""
                                                 }
                                             ]
+                                        },
+                                        {
+                                            "edition": "October 2023",
+                                            "name": "COBRA",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/card/COBRA.jpg",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "Lycosfreak",
+                                                    "link": ""
+                                                }
+                                            ],
+                                            "subassets": [
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.ALMANAC2024",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/COBRA_z3KGo.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Lycosfreak",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.CADUCEUS",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/COBRA_9O6IK.gif",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "AdeKrypto",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.CrimsonQueen",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/COBRA_K6N4q.png",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "AbysVora",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.hauntedserpent",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/COBRA_xAkUE.gif",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "AbysVora",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.HERCULPEPES",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/COBRA_oikX1.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Robenira",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.hypnotized",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/COBRA_XLxmb.png",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "PitooPi",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.PEPE_BEER",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/COBRA_9JSpl.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Lycosfreak",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.QUEEN",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/COBRA_SY3wz.gif",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "papeto",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.STALLONE",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/COBRA_LdbPz.JPG",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Shorty",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.STRIKE",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/COBRA_S0KZg.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Lycosfreak",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.TATE",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/COBRA_qtsVg.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Lycosfreak",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "COBRA.TINFOILHAT",
+                                                    "images": {
+                                                        "primary": "https://xchain.io/asset/COBRA.TINFOILHAT",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "OoakosiMo",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
