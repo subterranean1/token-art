@@ -1,1 +1,39 @@
-
+{
+  "chain": "counterparty",
+  "name": "Modern Relics",
+  "images": {
+    "avatar": "https://uxfkd27j6mkoi4ytbe6qomy4mxh5rcq2etjmo5goklfw5cba2jda.arweave.net/pcqh6-nzFORzEwk9BzMcZc_Yihok0sd0zlLLbogg0kY/logo.png",
+    "banner": ""
+  },
+  "description": "",
+  "externalLinks": {
+    "website": "https://modernrelics.io/"
+  },
+  "sets": [
+    {
+      "name": "",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "",
+          "name": "",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [],
+          "subassets": [
+        {
+          "edition": "",
+          "name": "COLLECTOR",
+          "images": {
+            "primary": "https://rarerejectdirectory.com/images/submissions/DIAMONDHANDS.jpg",
+            "other": []
+          },
+          "artists": [],
+          ]
+        },
