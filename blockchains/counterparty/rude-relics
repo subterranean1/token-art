@@ -503,7 +503,165 @@
               "link": ""
             }
           ]
+        },
+{
+      "edition": "August 2023",
+      "name": "TORTURE",
+      "images": {
+        "primary": "https://ruderelics.io/card/TORTURE.jpeg",
+        "other": []
+      },
+      "artists": [
+        {
+          "name": "AdeKrypto",
+          "link": ""
         }
+      ],
+      "subassets": [
+        {
+          "edition": "August 2023",
+          "name": "TORTURE.Game",
+          "images": {
+            "primary": "https://ruderelics.io/cards/TORTURE_DawnU.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "August 2023",
+          "name": "TORTURE.HOTEL_CRYPTO",
+          "images": {
+            "primary": "https://ruderelics.io/cards/TORTURE_mgPwz.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "August 2023",
+          "name": "TORTURE.I_SUPPORT",
+          "images": {
+            "primary": "https://ruderelics.io/cards/TORTURE_r1vnA.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "August 2023",
+          "name": "TORTURE.InfernalAgony",
+          "images": {
+            "primary": "https://ruderelics.io/cards/TORTURE_T7Bdd.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "August 2023",
+          "name": "TORTURE.MEDIEVAL",
+          "images": {
+            "primary": "https://ruderelics.io/cards/TORTURE_8fyFS.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "August 2023",
+          "name": "TORTURE.MENTAL",
+          "images": {
+            "primary": "https://ruderelics.io/cards/TORTURE_1DWbn.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "August 2023",
+          "name": "TORTURE.SCREAM",
+          "images": {
+            "primary": "https://ruderelics.io/cards/TORTURE_6uN3V.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "August 2023",
+          "name": "TORTURE.SELLORBUY",
+          "images": {
+            "primary": "https://ruderelics.io/cards/TORTURE_NZGSe.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "August 2023",
+          "name": "TORTURE.SOUL",
+          "images": {
+            "primary": "https://ruderelics.io/cards/TORTURE_MnZvs.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "August 2023",
+          "name": "TORTURE.TICKLE",
+          "images": {
+            "primary": "https://ruderelics.io/cards/TORTURE_29j2M.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
                                     ]
                                 }
                             ]
