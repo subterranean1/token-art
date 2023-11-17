@@ -1084,6 +1084,21 @@
                                                                     "link": ""
                                                                 }
                                                             ]
+                                                        },
+                                                        {
+                                                            "edition": "November 2023",
+                                                            "name": "CRAB",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/card/CRAB.gif",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Shorty",
+                                                                    "link": ""
+                                                                }
+                                                            ],
+                                                            "subassets": []
                                                         }
                                                     ]
                                                 }
