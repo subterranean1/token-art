@@ -658,122 +658,120 @@
                                                                 }
                                                             ]
                                                         },
-{
-      "edition": "October 2023",
-      "name": "DIARRHEA",
-      "images": {
-        "primary": "https://ruderelics.io/card/DIARRHEA.gif",
-        "other": []
-      },
-      "artists": [
-        {
-          "name": "Shorty",
-          "link": ""
-        }
-      ],
-      "subassets": [
-        {
-          "edition": "October 2023",
-          "name": "DIARRHEA.HAIKU",
-          "images": {
-            "primary": "https://ruderelics.io/cards/DIARRHEA_CTUSE.gif",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "OoakosiMo",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "October 2023",
-          "name": "DIARRHEA.IT_WAS_MACRON",
-          "images": {
-            "primary": "https://ruderelics.io/cards/DIARRHEA_rilde.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "October 2023",
-          "name": "DIARRHEA.LESSON",
-          "images": {
-            "primary": "https://ruderelics.io/cards/DIARRHEA_Viniv.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "October 2023",
-          "name": "DIARRHEA.PEPE",
-          "images": {
-            "primary": "https://ruderelics.io/cards/DIARRHEA_5awlv.gif",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Robenira",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "October 2023",
-          "name": "DIARRHEA.PEPE_YUCK",
-          "images": {
-            "primary": "https://ruderelics.io/cards/DIARRHEA_B4b8u.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "October 2023",
-          "name": "DIARRHEA.RELIEF",
-          "images": {
-            "primary": "https://ruderelics.io/cards/DIARRHEA_R8kfV.jpeg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "AdeKrypto",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "October 2023",
-          "name": "DIARRHEA.WHENYOUHAVE",
-          "images": {
-            "primary": "https://ruderelics.io/cards/DIARRHEA_VqVmY.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "papeto",
-              "link": ""
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+                                                        {
+                                                            "edition": "October 2023",
+                                                            "name": "DIARRHEA",
+                                                            "images": {
+                                                                "primary": "https://ruderelics.io/card/DIARRHEA.gif",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Shorty",
+                                                                    "link": ""
+                                                                }
+                                                            ],
+                                                            "subassets": [
+                                                                {
+                                                                    "edition": "October 2023",
+                                                                    "name": "DIARRHEA.HAIKU",
+                                                                    "images": {
+                                                                        "primary": "https://ruderelics.io/cards/DIARRHEA_CTUSE.gif",
+                                                                        "other": []
+                                                                    },
+                                                                    "artists": [
+                                                                        {
+                                                                            "name": "OoakosiMo",
+                                                                            "link": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "edition": "October 2023",
+                                                                    "name": "DIARRHEA.IT_WAS_MACRON",
+                                                                    "images": {
+                                                                        "primary": "https://ruderelics.io/cards/DIARRHEA_rilde.jpg",
+                                                                        "other": []
+                                                                    },
+                                                                    "artists": [
+                                                                        {
+                                                                            "name": "Lycosfreak",
+                                                                            "link": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "edition": "October 2023",
+                                                                    "name": "DIARRHEA.LESSON",
+                                                                    "images": {
+                                                                        "primary": "https://ruderelics.io/cards/DIARRHEA_Viniv.jpg",
+                                                                        "other": []
+                                                                    },
+                                                                    "artists": [
+                                                                        {
+                                                                            "name": "Lycosfreak",
+                                                                            "link": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "edition": "October 2023",
+                                                                    "name": "DIARRHEA.PEPE",
+                                                                    "images": {
+                                                                        "primary": "https://ruderelics.io/cards/DIARRHEA_5awlv.gif",
+                                                                        "other": []
+                                                                    },
+                                                                    "artists": [
+                                                                        {
+                                                                            "name": "Robenira",
+                                                                            "link": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "edition": "October 2023",
+                                                                    "name": "DIARRHEA.PEPE_YUCK",
+                                                                    "images": {
+                                                                        "primary": "https://ruderelics.io/cards/DIARRHEA_B4b8u.jpg",
+                                                                        "other": []
+                                                                    },
+                                                                    "artists": [
+                                                                        {
+                                                                            "name": "Lycosfreak",
+                                                                            "link": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "edition": "October 2023",
+                                                                    "name": "DIARRHEA.RELIEF",
+                                                                    "images": {
+                                                                        "primary": "https://ruderelics.io/cards/DIARRHEA_R8kfV.jpeg",
+                                                                        "other": []
+                                                                    },
+                                                                    "artists": [
+                                                                        {
+                                                                            "name": "AdeKrypto",
+                                                                            "link": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "edition": "October 2023",
+                                                                    "name": "DIARRHEA.WHENYOUHAVE",
+                                                                    "images": {
+                                                                        "primary": "https://ruderelics.io/cards/DIARRHEA_VqVmY.jpg",
+                                                                        "other": []
+                                                                    },
+                                                                    "artists": [
+                                                                        {
+                                                                            "name": "papeto",
+                                                                            "link": ""
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
                                                     ]
                                                 }
                                             ]
