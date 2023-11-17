@@ -1,4 +1,28 @@
 {
+  "chain": "counterparty",
+  "name": "Modern Relics",
+  "images": {
+    "avatar": "https://uxfkd27j6mkoi4ytbe6qomy4mxh5rcq2etjmo5goklfw5cba2jda.arweave.net/pcqh6-nzFORzEwk9BzMcZc_Yihok0sd0zlLLbogg0kY/logo.png",
+    "banner": ""
+  },
+  "description": "Modern Relics is a collection of tokens that were born in 2014 on Dogeparty and in 2015 on Counterparty. They have remained frozen in their original state…until now. We have awakened them from their slumber and have given them a new opportunity to shine in the modern age of crypto collectibles.
+
+This project aims to breathe new life into this collection of ancient tokens by making them more appealing and tradeable, with desirable characteristics. Today’s collector specifically favors a low issuance of a non-divisible asset with an image attached. These relics have all had a divisibility reset and issuance updated to reflect the modern preference.
+
+The final enhancement will be the attachment of a newly created piece of art to each token. Modern Relics will give everyone in the crypto art community a chance to contribute their talent and a fortunate few will have the opportunity to have their art permanently attached to these unique tokens!",
+  "externalLinks": {
+    "website": "https://modernrelics.io/",
+    "twitter": "https://twitter.com/ModernRelics_io"
+  },
+  "sets": [
+    {
+      "name": "Holo",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+{
     "assets": [
         {
             "edition": "April 2023",
