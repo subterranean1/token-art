@@ -19,8 +19,7 @@
             },
             "description": "",
   "assets": [
-    // ... other months
-    {
+       {
       "edition": "April 2023",
       "name": "HARDCORE",
       "images": {
