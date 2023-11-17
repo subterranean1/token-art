@@ -378,290 +378,290 @@
                                                 }
                                             ]
                                         },
-{
-      "edition": "July 2023",
-      "name": "HEROIN",
-      "images": {
-        "primary": "https://ruderelics.io/card/HEROIN.gif",
-        "other": []
-      },
-      "artists": [
-        {
-          "name": "papeto",
-          "link": ""
-        }
-      ],
-      "subassets": [
-        {
-          "edition": "July 2023",
-          "name": "HEROIN.ADDICTPEPE",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HEROIN_UzwSC.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "papeto",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "July 2023",
-          "name": "HEROIN.BAD",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HEROIN_f0aZx.jpeg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "AdeKrypto",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "July 2023",
-          "name": "HEROIN.COUGH",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HEROIN_WHMOy.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "July 2023",
-          "name": "HEROIN.GOLDEN",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HEROIN_EaelS.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "July 2023",
-          "name": "HEROIN.HOPIUM",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HEROIN_ytrb2.JPG",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Shorty",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "July 2023",
-          "name": "HEROIN.JustSayNever",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HEROIN_Yv2cS.png",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "AbysVora",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "July 2023",
-          "name": "HEROIN.MUGSHOT",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HEROIN_0Ekuu.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "July 2023",
-          "name": "HEROIN.PEPESPOTTING",
-          "images": {
-            "primary": "https://ruderelics.io/cards/HEROIN_3R1JQ.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Robenira",
-              "link": ""
-            }
-          ]
-        },
-{
-      "edition": "August 2023",
-      "name": "TORTURE",
-      "images": {
-        "primary": "https://ruderelics.io/card/TORTURE.jpeg",
-        "other": []
-      },
-      "artists": [
-        {
-          "name": "AdeKrypto",
-          "link": ""
-        }
-      ],
-      "subassets": [
-        {
-          "edition": "August 2023",
-          "name": "TORTURE.Game",
-          "images": {
-            "primary": "https://ruderelics.io/cards/TORTURE_DawnU.gif",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Robenira",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "August 2023",
-          "name": "TORTURE.HOTEL_CRYPTO",
-          "images": {
-            "primary": "https://ruderelics.io/cards/TORTURE_mgPwz.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "August 2023",
-          "name": "TORTURE.I_SUPPORT",
-          "images": {
-            "primary": "https://ruderelics.io/cards/TORTURE_r1vnA.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "August 2023",
-          "name": "TORTURE.InfernalAgony",
-          "images": {
-            "primary": "https://ruderelics.io/cards/TORTURE_T7Bdd.png",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "AbysVora",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "August 2023",
-          "name": "TORTURE.MEDIEVAL",
-          "images": {
-            "primary": "https://ruderelics.io/cards/TORTURE_8fyFS.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "papeto",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "August 2023",
-          "name": "TORTURE.MENTAL",
-          "images": {
-            "primary": "https://ruderelics.io/cards/TORTURE_1DWbn.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "papeto",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "August 2023",
-          "name": "TORTURE.SCREAM",
-          "images": {
-            "primary": "https://ruderelics.io/cards/TORTURE_6uN3V.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "August 2023",
-          "name": "TORTURE.SELLORBUY",
-          "images": {
-            "primary": "https://ruderelics.io/cards/TORTURE_NZGSe.gif",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Robenira",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "August 2023",
-          "name": "TORTURE.SOUL",
-          "images": {
-            "primary": "https://ruderelics.io/cards/TORTURE_MnZvs.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Lycosfreak",
-              "link": ""
-            }
-          ]
-        },
-        {
-          "edition": "August 2023",
-          "name": "TORTURE.TICKLE",
-          "images": {
-            "primary": "https://ruderelics.io/cards/TORTURE_29j2M.jpg",
-            "other": []
-          },
-          "artists": [
-            {
-              "name": "Shorty",
-              "link": ""
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+                                        {
+                                            "edition": "July 2023",
+                                            "name": "HEROIN",
+                                            "images": {
+                                                "primary": "https://ruderelics.io/card/HEROIN.gif",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "papeto",
+                                                    "link": ""
+                                                }
+                                            ],
+                                            "subassets": [
+                                                {
+                                                    "edition": "July 2023",
+                                                    "name": "HEROIN.ADDICTPEPE",
+                                                    "images": {
+                                                        "primary": "https://ruderelics.io/cards/HEROIN_UzwSC.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "papeto",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "July 2023",
+                                                    "name": "HEROIN.BAD",
+                                                    "images": {
+                                                        "primary": "https://ruderelics.io/cards/HEROIN_f0aZx.jpeg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "AdeKrypto",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "July 2023",
+                                                    "name": "HEROIN.COUGH",
+                                                    "images": {
+                                                        "primary": "https://ruderelics.io/cards/HEROIN_WHMOy.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Lycosfreak",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "July 2023",
+                                                    "name": "HEROIN.GOLDEN",
+                                                    "images": {
+                                                        "primary": "https://ruderelics.io/cards/HEROIN_EaelS.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Lycosfreak",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "July 2023",
+                                                    "name": "HEROIN.HOPIUM",
+                                                    "images": {
+                                                        "primary": "https://ruderelics.io/cards/HEROIN_ytrb2.JPG",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Shorty",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "July 2023",
+                                                    "name": "HEROIN.JustSayNever",
+                                                    "images": {
+                                                        "primary": "https://ruderelics.io/cards/HEROIN_Yv2cS.png",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "AbysVora",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "July 2023",
+                                                    "name": "HEROIN.MUGSHOT",
+                                                    "images": {
+                                                        "primary": "https://ruderelics.io/cards/HEROIN_0Ekuu.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Lycosfreak",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "July 2023",
+                                                    "name": "HEROIN.PEPESPOTTING",
+                                                    "images": {
+                                                        "primary": "https://ruderelics.io/cards/HEROIN_3R1JQ.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Robenira",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "August 2023",
+                                                    "name": "TORTURE",
+                                                    "images": {
+                                                        "primary": "https://ruderelics.io/card/TORTURE.jpeg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "AdeKrypto",
+                                                            "link": ""
+                                                        }
+                                                    ],
+                                                    "subassets": [
+                                                        {
+                                                            "edition": "August 2023",
+                                                            "name": "TORTURE.Game",
+                                                            "images": {
+                                                                "primary": "https://ruderelics.io/cards/TORTURE_DawnU.gif",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Robenira",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "August 2023",
+                                                            "name": "TORTURE.HOTEL_CRYPTO",
+                                                            "images": {
+                                                                "primary": "https://ruderelics.io/cards/TORTURE_mgPwz.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Lycosfreak",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "August 2023",
+                                                            "name": "TORTURE.I_SUPPORT",
+                                                            "images": {
+                                                                "primary": "https://ruderelics.io/cards/TORTURE_r1vnA.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Lycosfreak",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "August 2023",
+                                                            "name": "TORTURE.InfernalAgony",
+                                                            "images": {
+                                                                "primary": "https://ruderelics.io/cards/TORTURE_T7Bdd.png",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "AbysVora",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "August 2023",
+                                                            "name": "TORTURE.MEDIEVAL",
+                                                            "images": {
+                                                                "primary": "https://ruderelics.io/cards/TORTURE_8fyFS.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "papeto",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "August 2023",
+                                                            "name": "TORTURE.MENTAL",
+                                                            "images": {
+                                                                "primary": "https://ruderelics.io/cards/TORTURE_1DWbn.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "papeto",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "August 2023",
+                                                            "name": "TORTURE.SCREAM",
+                                                            "images": {
+                                                                "primary": "https://ruderelics.io/cards/TORTURE_6uN3V.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Lycosfreak",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "August 2023",
+                                                            "name": "TORTURE.SELLORBUY",
+                                                            "images": {
+                                                                "primary": "https://ruderelics.io/cards/TORTURE_NZGSe.gif",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Robenira",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "August 2023",
+                                                            "name": "TORTURE.SOUL",
+                                                            "images": {
+                                                                "primary": "https://ruderelics.io/cards/TORTURE_MnZvs.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Lycosfreak",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "August 2023",
+                                                            "name": "TORTURE.TICKLE",
+                                                            "images": {
+                                                                "primary": "https://ruderelics.io/cards/TORTURE_29j2M.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Shorty",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
                                     ]
                                 }
                             ]
