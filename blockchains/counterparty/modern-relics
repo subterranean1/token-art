@@ -1,4 +1,24 @@
 {
+  "chain": "counterparty",
+  "name": "Modern Relics",
+  "images": {
+    "avatar": "https://uxfkd27j6mkoi4ytbe6qomy4mxh5rcq2etjmo5goklfw5cba2jda.arweave.net/pcqh6-nzFORzEwk9BzMcZc_Yihok0sd0zlLLbogg0kY/logo.png",
+    "banner": ""
+  },
+  "description": "Modern Relics",
+  "externalLinks": {
+    "website": "https://modernrelics.io",
+    "twitter": ""
+  },
+  "sets": [
+    {
+      "name": "Modern Relics",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+{
     "assets": [
         {
             "edition": "April 2023",
