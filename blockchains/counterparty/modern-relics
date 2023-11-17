@@ -25,15 +25,25 @@
             "primary": "",
             "other": []
           },
-          "artists": [],
+          "artists": [
+      {
+              "name": "",
+              "link": ""
+            }
+          ],
           "subassets": [
         {
           "edition": "",
-          "name": "COLLECTOR",
+          "name": "",
           "images": {
-            "primary": "https://rarerejectdirectory.com/images/submissions/DIAMONDHANDS.jpg",
+            "primary": "",
             "other": []
           },
-          "artists": [],
+          "artists": [
+    {
+              "name": "",
+              "link": ""
+            }
+          ],
           ]
         },
