@@ -5,273 +5,396 @@
         "avatar": "https://uxfkd27j6mkoi4ytbe6qomy4mxh5rcq2etjmo5goklfw5cba2jda.arweave.net/pcqh6-nzFORzEwk9BzMcZc_Yihok0sd0zlLLbogg0kY/logo.png",
         "banner": ""
     },
-    "description": "A description for Modern Relics.",
+    "description": "",
     "externalLinks": {
         "website": "https://modernrelics.io/"
     },
-    "sets": [
+   "sets": [
+    {
+      "name": "COLLECTOR",
+      "images": {
+        "avatar": "https://modernrelics.io/card/COLLECTOR-cp.gif",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
         {
-            "name": "COLLECTOR",
-            "images": {
-                "avatar": "Set 1 Avatar URL",
-                "banner": "Set 1 Banner URL"
-            },
-            "description": "Description for COLLECTOR",
-            "assets": [
-                {
-                    "edition": "1",
-                    "name": "COLLECTOR.areyoumissingsomething",
-                    "images": {
-                        "primary": "",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "2",
-                    "name": "COLLECTOR.COLLECTOR",
-                    "images": {
-                        "primary": "",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "3",
-                    "name": "COLLECTOR.COLLECTOR_COUNTERPARTY",
-                    "images": {
-                        "primary": "",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "4",
-                    "name": "COLLECTOR.FROGINAJAR",
-                    "images": {
-                        "primary": "",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "5",
-                    "name": "COLLECTOR.FROGJUICE",
-                    "images": {
-                        "primary": "",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "6",
-                    "name": "COLLECTOR.Hand_of_Pepe",
-                    "images": {
-                        "primary": "",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "7",
-                    "name": "COLLECTOR.Introducing_Pepe",
-                    "images": {
-                        "primary": "",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "8",
-                    "name": "COLLECTOR.KING",
-                    "images": {
-                        "primary": "",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "9",
-                    "name": "COLLECTOR.mother",
-                    "images": {
-                        "primary": "",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "10",
-                    "name": "COLLECTOR.not_a_hoarder",
-                    "images": {
-                        "primary": "",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "11",
-                    "name": "COLLECTOR.OOSEVEN",
-                    "images": {
-                        "primary": "",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "12",
-                    "name": "COLLECTOR.PEPECOLLECTOR",
-                    "images": {
-                        "primary": "https://modernrelics.io/cards/COLLECTOR_KkDts.gif",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Robenira",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "13",
-                    "name": "COLLECTOR.pepefc",
-                    "images": {
-                        "primary": "https://modernrelics.io/cards/COLLECTOR_FNeAC.png",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Bbleiztz",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "14",
-                    "name": "COLLECTOR.QUEEN",
-                    "images": {
-                        "primary": "https://modernrelics.io/cards/COLLECTOR_NVhag.png",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Tizar Berandalan",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "15",
-                    "name": "COLLECTOR.The_Collector",
-                    "images": {
-                        "primary": "https://modernrelics.io/cards/COLLECTOR_dlreF.jpg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Lycosfreak",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "16",
-                    "name": "COLLECTOR.The_Counterparty_Collection",
-                    "images": {
-                        "primary": "https://modernrelics.io/cards/COLLECTOR_zv5Dr.jpg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Lycosfreak",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
-                },
-                {
-                    "edition": "17",
-                    "name": "COLLECTOR.TheCollector",
-                    "images": {
-                        "primary": "https://modernrelics.io/cards/COLLECTOR_fjCmY.jpeg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "LittleShibe",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": []
+          "edition": "1",
+          "name": "COLLECTOR.areyoumissingsomething",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_7qmFn.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Egido Val",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "2",
+          "name": "COLLECTOR.COLLECTOR",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_U5D3e.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Rey",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "3",
+          "name": "COLLECTOR.COLLECTOR_COUNTERPARTY",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_MY8gS.GIF",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "D. Shorty",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "4",
+          "name": "COLLECTOR.FROGINAJAR",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_c0x16.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "5",
+          "name": "COLLECTOR.FROGJUICE",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_ayML5.PNG",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "PrivateKey",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "6",
+          "name": "COLLECTOR.Hand_of_Pepe",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_cerpK.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "7",
+          "name": "COLLECTOR.Introducing_Pepe",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_FWQCq.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "8",
+          "name": "COLLECTOR.KING",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_joZVM.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Tizar Berandalan",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "9",
+          "name": "COLLECTOR.mother",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_5feWu.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dany",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "10",
+          "name": "COLLECTOR.not_a_hoarder",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_4326N.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "KimbrowAF",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "11",
+          "name": "COLLECTOR.OOSEVEN",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_rvKNu.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "YONI",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "12",
+          "name": "COLLECTOR.PEPECOLLECTOR",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_KkDts.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "13",
+          "name": "COLLECTOR.pepefc",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_FNeAC.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Bbleiztz",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "14",
+          "name": "COLLECTOR.QUEEN",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_NVhag.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Tizar Berandalan",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "15",
+          "name": "COLLECTOR.The_Collector",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_dlreF.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "16",
+          "name": "COLLECTOR.The_Counterparty_Collection",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_zv5Dr.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "17",
+          "name": "COLLECTOR.TheCollector",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_fjCmY.jpeg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "LittleShibe",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        }
+      ]
+    },
+    {
+      "name": "FAIRY",
+      "images": {
+        "avatar": "https://modernrelics.io/card/FAIRY.gif",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "1",
+          "name": "FAIRY.ANDPEPE",
+          "images": {
+            "primary": "https://modernrelics.io/cards/FAIRY_iTPbt.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AdeKrypto",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "2",
+          "name": "FAIRY.elvinia",
+          "images": {
+            "primary": "https://modernrelics.io/cards/FAIRY_wRhWb.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "3",
+          "name": "FAIRY.MAGIC",
+          "images": {
+            "primary": "https://modernrelics.io/cards/FAIRY_PwSWF.GIF",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "4",
+          "name": "FAIRY.PEPE",
+          "images": {
+            "primary": "https://modernrelics.io/cards/FAIRY_odBdq.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "FAIRYPEPE",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "5",
+          "name": "FAIRY.The_Pepe_Fairy",
+          "images": {
+            "primary": "https://modernrelics.io/cards/FAIRY_LAHAm.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "6",
+          "name": "FAIRY.Tooth_Fairy",
+          "images": {
+            "primary": "https://modernrelics.io/cards/FAIRY_lJMVX.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "7",
+          "name": "FAIRY.TWISTED",
+          "images": {
+            "primary": "https://modernrelics.io/cards/FAIRY_mwSkn.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        // Additional editions for FAIRY can be added here
+      ]
+    },
+    // Additional sets and editions can be added here
+  ]
+}
+
                 }
             ]
         }
