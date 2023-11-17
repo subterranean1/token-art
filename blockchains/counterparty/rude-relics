@@ -1,1 +1,20 @@
-
+{
+    "chain": "counterparty",
+    "name": "Rude Relics",
+    "images": {
+        "avatar": "https://beqzu7srbhb3xjukdkd7addyfqmztqrbvpbe5sb43izjbq2h25uq.arweave.net/CSGaflEJw7umihqH8Ax4LBmZwiGrwk7IPNoykMNH12k/logo.png",
+        "banner": ""
+    },
+    "description": "You’ve landed at Rude Relics: a completely inappropriate collection of wild-ass mother-fucking named tokens that were born in 2014 on Dogeparty and in 2015 on Counterparty. They have remained frozen in time like a bunch of jizz-bags locked up in a sperm bank…until now. It’s time for them to wake up like a hung-over hooker snorting coke off your coffee table at the crack of dawn. This project is awful and you shouldn’t even be here. Why are you still reading this? You can’t help yourself, can you? You thrive in the filth. In the nastiest of nastiness. Well today’s your lucky day, compadre. We are updating the most unsavory assets in existence with a divisibility and issuance reset which would make the most degenerate of degenerates smile. The filling of the creampie will happen with the attachment of a newly created piece of art to each token. Rude Relics will give any sinner in the crypto-art world a slim chance to contribute their talent, and an unfortunate few will have the opportunity to have their sick and depraved art permanently attached to these awful tokens.",
+    "externalLinks": {
+        "website": "https://ruderelics.io/",
+        "twitter": "https://twitter.com/RudeRelics"
+    },
+    "sets": [
+        {
+            "name": "Rude Relilcs",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
