@@ -5,50 +5,273 @@
     "avatar": "https://uxfkd27j6mkoi4ytbe6qomy4mxh5rcq2etjmo5goklfw5cba2jda.arweave.net/pcqh6-nzFORzEwk9BzMcZc_Yihok0sd0zlLLbogg0kY/logo.png",
     "banner": ""
   },
-  "description": "",
+  "description": "A description for Modern Relics.",
   "externalLinks": {
     "website": "https://modernrelics.io/"
   },
   "sets": [
     {
-      "name": "",
+      "name": "COLLECTOR",
       "images": {
-        "avatar": "",
-        "banner": ""
+        "avatar": "Set 1 Avatar URL",
+        "banner": "Set 1 Banner URL"
       },
-      "description": "",
+      "description": "Description for COLLECTOR",
       "assets": [
         {
-          "edition": "",
-          "name": "",
+          "edition": "1",
+          "name": "COLLECTOR.areyoumissingsomething",
           "images": {
             "primary": "",
             "other": []
           },
           "artists": [
-      {
-           "name": "",
-           "link": ""
-            }
-          ],
-          "subassets": [
-        {
-          "edition": "",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": []
-          },
-          "artists": [
-    {
+            {
               "name": "",
               "link": ""
             }
-              ]
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "2",
+          "name": "COLLECTOR.COLLECTOR",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
             }
-          ]
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "3",
+          "name": "COLLECTOR.COLLECTOR_COUNTERPARTY",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "4",
+          "name": "COLLECTOR.FROGINAJAR",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "5",
+          "name": "COLLECTOR.FROGJUICE",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "6",
+          "name": "COLLECTOR.Hand_of_Pepe",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "7",
+          "name": "COLLECTOR.Introducing_Pepe",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "8",
+          "name": "COLLECTOR.KING",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "9",
+          "name": "COLLECTOR.mother",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "10",
+          "name": "COLLECTOR.not_a_hoarder",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "11",
+          "name": "COLLECTOR.OOSEVEN",
+          "images": {
+            "primary": "",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "12",
+          "name": "COLLECTOR.PEPECOLLECTOR",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_KkDts.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "13",
+          "name": "COLLECTOR.pepefc",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_FNeAC.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Bbleiztz",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "14",
+          "name": "COLLECTOR.QUEEN",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_NVhag.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Tizar Berandalan",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "15",
+          "name": "COLLECTOR.The_Collector",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_dlreF.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "16",
+          "name": "COLLECTOR.The_Counterparty_Collection",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_zv5Dr.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "17",
+          "name": "COLLECTOR.TheCollector",
+          "images": {
+            "primary": "https://modernrelics.io/cards/COLLECTOR_fjCmY.jpeg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "LittleShibe",
+              "link": ""
+            }
+          ],
+          "subassets": []
         }
       ]
     }
-  ]
-}
