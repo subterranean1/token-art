@@ -55,7 +55,7 @@
                     "edition": "3",
                     "name": "COCOGREEN",
                     "images": {
-                        "primary": "https://bafybeifghfyb4scairqlwq55rgucx23bieqn5kpwix76kd3le5cc5flvbu.ipfs.nftstorage.link/",
+                        "primary": "https://arweave.net/rlEXXgmXBcnU0dUCPYEF3sJqbC2FAdYIqQrexV3x8-k/cocogreen.gif",
                         "other": []
                     },
                     "artists": [
@@ -1190,7 +1190,7 @@
                     "edition": "Card 37",
                     "name": "COCOANDME",
                     "images": {
-                        "primary": "https://arweave.net/uqto0kwbUhasRm46tSEGlMlLKEQRwKfXJr_eBJ24c58/52bd03_image.jpg",
+                        "primary": "https://arweave.net/gGKSduBldQcR8hhvB_RvVFSd1Ly-18BwiDyhtBN9p2c/cocoandme.jpg",
                         "other": []
                     },
                     "artists": [
@@ -1250,7 +1250,7 @@
                     "edition": "Card 41",
                     "name": "COCODEMER",
                     "images": {
-                        "primary": "https://bafybeic227maccoarmnjstfqrohqh6vnn76t34gdnmoxbj2gdaaolc2spm.ipfs.nftstorage.link/CocodeMer_LR.png",
+                        "primary": "https://arweave.net/hsQRL5adoQUErifstZPKRdetbAvSJAoXBCSFql0bJNM/cocodemer.png",
                         "other": []
                     },
                     "artists": [
@@ -2275,7 +2275,7 @@
                     "edition": "Card 24",
                     "name": "COCOGENERAL",
                     "images": {
-                        "primary": "https://bafybeid4cwgsucxffdl2cbw6byx7iole2qvqjqklrljrhlrw2d5bbtrsuu.ipfs.nftstorage.link/",
+                        "primary": "https://arweave.net/YF_X0mgifyWXrfkPBFflUf5VHfVQaGn7LowkvgdMCyY/cocogeneral.png",
                         "other": []
                     },
                     "artists": [
@@ -2980,7 +2980,7 @@
                     "edition": "Card 29",
                     "name": "DJCOCO",
                     "images": {
-                        "primary": "https://bafybeibowekrai4vtpaw2c5hltab55sgugrzizvrzk6tfxtxmrno6vr75q.ipfs.nftstorage.link/",
+                        "primary": "https://arweave.net/AGN7DdW8b7PIlXuMQ4NAjK2xG9y26D5r0Epuf27S5f0/djcoco.png",
                         "other": []
                     },
                     "artists": [
@@ -3235,3 +3235,4 @@
         }
     ]
 }
+
